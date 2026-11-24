@@ -197,8 +197,5 @@ streamlit run app.py
 
 <p align="center">
   <b>👤 PLAYER PROFILE</b><br>
-  <b>Mayur Makwana</b><br>
-  <a href="https://github.com/mayurofficial-tech">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="YOUR_LINKEDIN_PROFILE_LINK_HERE">LinkedIn</a>
+  <b>Mahesh Lohar</b><br>
 </p>
