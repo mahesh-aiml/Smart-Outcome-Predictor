@@ -1,7 +1,7 @@
-\<!-- Animated header -->
+<!-- Animated header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Smart%20Outcome%20Predictor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Predict%20Course%20Completion%20%26%20Final%20Score%20with%20Machine%20Learning&descAlignY=58&descSize=18" width="100%" alt="Smart Outcome Predictor banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Smart%20Outcome%20Predictor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Predict%20Course%20Completion%20and%20Final%20Score%20with%20Machine%20Learning&descAlignY=58&descSize=18" width="100%" alt="Smart Outcome Predictor banner"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
