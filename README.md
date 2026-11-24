@@ -1,4 +1,4 @@
-<!-- Animated header -->
+\<!-- Animated header -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Smart%20Outcome%20Predictor&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Predict%20Course%20Completion%20%26%20Final%20Score%20with%20Machine%20Learning&descAlignY=58&descSize=18" width="100%" alt="Smart Outcome Predictor banner"/>
@@ -20,6 +20,9 @@
 <br/><br/>
 
 <!-- Link buttons -->
+<a href="https://smart-outcome-predictor-mp2ss4dhafg96wgybmzxag.streamlit.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20App-Open%20in%20Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live App"/>
+</a>
 <a href="https://github.com/mahesh-aiml/Smart-Outcome-Predictor/tree/main">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
 </a>
@@ -127,6 +130,8 @@ streamlit run app.py
 
 App browser me `http://localhost:8501` par khul jayegi. 🎉
 
+> 🌐 Live demo: [Smart Outcome Predictor · Streamlit](https://smart-outcome-predictor-mp2ss4dhafg96wgybmzxag.streamlit.app/)
+>
 > 📄 Source code: [`app.py`](https://github.com/mahesh-aiml/Smart-Outcome-Predictor/blob/main/app.py)
 
 ---
