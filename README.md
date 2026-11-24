@@ -196,7 +196,7 @@ flowchart LR
 
 <div align="center">
 
-### 💜 Made with passion for smarter learning
+### 💜 Mahesh Lohar
 
 ⭐ **Agar project pasand aaya to repo ko star zaroor karo!** ⭐
 
