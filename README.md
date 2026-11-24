@@ -17,6 +17,16 @@
 <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 <img src="https://img.shields.io/badge/pandas-Data-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
 
+<br/><br/>
+
+<!-- Link buttons -->
+<a href="https://github.com/mahesh-aiml/Smart-Outcome-Predictor/tree/main">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+<a href="https://github.com/mahesh-aiml/Smart-Outcome-Predictor/blob/main/app.py">
+  <img src="https://img.shields.io/badge/Open%20app.py-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Open app.py"/>
+</a>
+
 </div>
 
 ---
@@ -87,7 +97,7 @@ Dono models **XGBoost** se train kiye gaye hain aur `joblib` (`.pkl`) files ke r
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Smart-Outcome-Predictor.git
+git clone https://github.com/mahesh-aiml/Smart-Outcome-Predictor.git
 cd Smart-Outcome-Predictor
 ```
 
@@ -116,6 +126,8 @@ streamlit run app.py
 ```
 
 App browser me `http://localhost:8501` par khul jayegi. 🎉
+
+> 📄 Source code: [`app.py`](https://github.com/mahesh-aiml/Smart-Outcome-Predictor/blob/main/app.py)
 
 ---
 
@@ -179,7 +191,7 @@ flowchart LR
 
 <div align="center">
 
-### 💜 Mahesh Lohar
+### 💜 Made with passion for smarter learning
 
 ⭐ **Agar project pasand aaya to repo ko star zaroor karo!** ⭐
 
